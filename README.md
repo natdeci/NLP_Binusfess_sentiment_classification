@@ -6,3 +6,6 @@ The model is too big for the repository, you can access it via this link: https:
 - https://ar5iv.labs.arxiv.org/html/2106.02581
 - https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00781-w
 - https://www.semanticscholar.org/reader/df2b0e26d0599ce3e70df8a9da02e51594e0e992
+
+**Youtube Presentation Link**
+https://youtu.be/pQTWHSuoJ6g
